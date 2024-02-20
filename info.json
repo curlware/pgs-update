@@ -1,0 +1,21 @@
+{
+	"name" : "Prescription Generatorr",
+	"slug" : "prescription-generator",
+	"author" : "<a href='https://asraful.com.bd'>Asraful Islam</a>",
+	"author_profile" : "http://asraful.com.bd/",
+	"version" : "2.0",
+	"download_url" : "http://localhost/api/prescription-generator/uploads/prescription-generator.zip",
+	"requires" : "5.0",
+	"tested" : "6.4.3",
+	"requires_php" : "7.0",
+	"last_updated" : "2024-02-20 02:10:00",
+	"sections" : {
+		"description" : "This simple plugin does nothing, only gets updates from a custom server",
+		"installation" : "Click the activate button and that's it.",
+		"changelog" : "<h4>1.0 –  1 august 2021</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
+	},
+	"banners" : {
+		"low" : "http://localhost/api/prescription-generator/uploads/banner-772x250.jpg",
+		"high" : "http://localhost/api/prescription-generator/uploads/banner-1544x500.jpg"
+	}
+}
